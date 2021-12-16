@@ -1,5 +1,20 @@
 * {
     text-decoration: none;
+    
+}
+html{
+    background-color: rgba(51, 51, 51, 0.185);
+}
+
+header{
+    margin: 10px;
+}
+main { 
+    margin: 10px;
+    background-color: white;
+}
+.nav__titulo {
+    text-align: center;
 }
 
 .section__image{
@@ -7,6 +22,7 @@
     justify-content: center;
 }
 
-.nav__titulo {
-    text-align: center;
+.section__content {
+    background-color: rgba(51, 51, 51, 0.185);
 }
+
