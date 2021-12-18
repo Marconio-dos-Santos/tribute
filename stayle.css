@@ -1,5 +1,6 @@
 * {
     text-decoration: none;
+    
 
 }
 html{
@@ -10,15 +11,13 @@ html{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    text-align: center;
 }
 
 .nav__titulo {
     text-align: center;
 }
 
-.section__image {
-    text-align: center;
-}
 
 
 
